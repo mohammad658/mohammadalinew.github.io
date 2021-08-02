@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header h2, p{
+    width: 700px;
+    margin: 0 auto;
+}
+.container{
+    display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+
+.content{
+    width:700px;
+    height: 150px;
+    background: #e0dedb;
+    margin:80px auto;
+    padding: 2rem;
+}
